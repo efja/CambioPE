@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Francisco Javier González Campos")]
 [assembly: AssemblyProduct("CambioPE")]
-[assembly: AssemblyCopyright("(CC-BY-NC) 3.0 España")]
+[assembly: AssemblyCopyright("GPL v3.0")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
